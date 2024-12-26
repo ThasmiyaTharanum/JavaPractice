@@ -1,0 +1,6 @@
+Naming Convention
+  class and Interfaces - should start with capital letters.
+  variable and methods - shoould start with small letters 
+  constants -all capital letters
+  any method names use camel casing i.e, for example showMyNumber, CallMyLand (frst letter of tthe word should be capital)
+
